@@ -3,6 +3,8 @@ No problem. Here is the **GitHub README.md** content for your project in Markdow
 # Ophthalmic Risk-Prediction Software for Post-Operative Corneal Edema
 
 ### An Interpretable ML Framework for Clinical Decision Support (CDSS)
+<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/eba5b072-3944-4ca9-82e0-3b943cd989c2" />
+
 
 ## 👁️ Overview
 
